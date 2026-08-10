@@ -25,6 +25,9 @@ by the colors and semantic highlighting of Sapphire.
 5. Open the theme selector with `Cmd+K Cmd+T` on macOS or `Ctrl+K Ctrl+T` on
    Linux and Windows, then select **Zapphire**.
 
+## Demo
+![Zapphire Theme Demo](./demo.png)
+
 ## Credits
 
 Zapphire is an independent Zed adaptation inspired by Daniel Imms' original
